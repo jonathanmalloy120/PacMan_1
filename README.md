@@ -10,3 +10,5 @@ Pull down the entire repository, then drag index.html into a browser tab. The ex
 3. Add a way to pause the screen after it has been started. 
 4. Add some sore of objective to make this a game rather than simply a fun project to mess with. More controls/ ways to interact with the PacMen would need to be included. 
 5. Add classic arcade music.
+
+This program is coded and distributed according to MIT license. MIT License: A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
